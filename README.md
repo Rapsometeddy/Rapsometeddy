@@ -1,10 +1,14 @@
+<div align="center">
+
+<img src="./assets/rapsometeddy-banner.svg" alt="Rapsometeddy futuristic banner" width="100%"/>
+
 # 👋 Hey, I'm Samuel — Rapsometeddy
 
-> **BUILD • LEARN • CREATE • INVEST**
+### BUILD • LEARN • CREATE • INVEST
 
-I'm a South African builder exploring the intersection of **AI, automation, open source, business, and creative technology**.
+**AI • Open Source • Web • Business • Creative Technology**
 
-I like taking an idea from *"what if?"* to something people can actually use. 🚀
+</div>
 
 ---
 
@@ -17,8 +21,6 @@ I like taking an idea from *"what if?"* to something people can actually use. �
 - 📣 **Content automation** — tools for creating and distributing content
 - 🎵 **Music & creative technology** — experimenting with sound, AI and ideas
 
----
-
 ## 🛠️ Tech I'm Exploring
 
 ```
@@ -27,23 +29,14 @@ Vercel       GitHub   Telegram API
 REST APIs    SQL      AI tools
 ```
 
----
-
 ## 🚀 Featured Projects
 
-### 🤖 Rapsometeddy Content Machine
-A Telegram-first content automation project for turning ideas into ready-to-publish content.
-
-### 📈 Rapsometeddy Trader
-A market-data and analytics project exploring dashboards, signals and backtesting.
-
-### ⚽ Rapsometeddy Sports Predictor
-A statistical football analytics project focused on data rather than guesswork.
-
-### 🤖 Rapsometeddy HQ Bot
-A Telegram-based command and automation hub for the Rapsometeddy ecosystem.
-
----
+| Project | Focus |
+|---|---|
+| 🤖 **Rapsometeddy Content Machine** | Telegram-first content automation |
+| 📈 **Rapsometeddy Trader** | Market analytics, signals & backtesting |
+| ⚽ **Rapsometeddy Sports Predictor** | Statistical football analytics |
+| 🤖 **Rapsometeddy HQ Bot** | Telegram automation hub |
 
 ## 🎯 My Approach
 
@@ -51,22 +44,19 @@ A Telegram-based command and automation hub for the Rapsometeddy ecosystem.
 
 I'm interested in projects that can become useful products, open-source tools, or real businesses.
 
----
-
 ## 🌍 From South Africa 🇿🇦
 
 Building with limited resources, learning in public, and using technology to create bigger possibilities.
 
----
-
 ## 📫 Connect
 
 - GitHub: [@Rapsometeddy](https://github.com/Rapsometeddy)
-- Projects: Explore the repositories below 👇
+- Explore the repositories below 👇
 
 ---
 
-### ⚡ Current mindset
+<div align="center">
 
-> **Don't just consume technology. Build with it.**
+### ⚡ Don't just consume technology. Build with it.
 
+</div>
