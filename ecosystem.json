@@ -1,0 +1,31 @@
+{
+  "name": "Rapsometeddy Ecosystem",
+  "version": "1.0.0",
+  "hubRepository": "Rapsometeddy/Rapsometeddy",
+  "brand": "Rapsometeddy",
+  "principles": [
+    "independent-products",
+    "shared-identity",
+    "shared-infrastructure-where-useful",
+    "mobile-first",
+    "build-test-learn-improve"
+  ],
+  "products": [
+    {"id":"business-os","name":"Business OS","repository":"Rapsometeddy/rapsometeddy-business-os","category":"business"},
+    {"id":"profitmate","name":"ProfitMate","repository":"Rapsometeddy/-profitmate","category":"finance"},
+    {"id":"content-machine","name":"Content Machine","repository":"Rapsometeddy/rapsometeddy-content-machine","category":"content"},
+    {"id":"hq-bot","name":"HQ Bot","repository":"Rapsometeddy/Rapsometeddyrapsometeddy-hq-bot","category":"automation"},
+    {"id":"trader","name":"Trader","repository":"Rapsometeddy/Rapsometeddy-Trader-v1","category":"analytics"},
+    {"id":"sports-predictor","name":"Sports Predictor","repository":"Rapsometeddy/rapsometeddy-sports-predictor","category":"analytics"},
+    {"id":"voicestudio","name":"VoiceStudio","repository":"Rapsometeddy/VoiceStudio","category":"creative"},
+    {"id":"website","name":"Website","repository":"Rapsometeddy/website","category":"platform"}
+  ],
+  "plannedSharedServices": [
+    "identity",
+    "authentication",
+    "profiles",
+    "notifications",
+    "analytics",
+    "ecosystem-api"
+  ]
+}
