@@ -1,62 +1,111 @@
+# 🧠 Rapsometeddy Ecosystem
+
 <div align="center">
 
 <img src="./assets/rapsometeddy-banner.svg" alt="Rapsometeddy futuristic banner" width="100%"/>
 
-# 👋 Hey, I'm Samuel — Rapsometeddy
+# RAPSOMETTEDY
 
 ### BUILD • LEARN • CREATE • INVEST
 
-**AI • Open Source • Web • Business • Creative Technology**
+**One ecosystem. Multiple products. One identity.**
+
+[![GitHub](https://img.shields.io/badge/GitHub-Rapsometeddy-181717?logo=github)](https://github.com/Rapsometeddy)
 
 </div>
 
 ---
 
-## 🧠 What I'm Building
+## 🌐 The Rapsometeddy Ecosystem
 
-- 🤖 **AI & Automation** — practical tools that automate repetitive work
-- 📱 **Mobile-first products** — building and experimenting from Android
-- 🌐 **Web apps & APIs** — lightweight, useful digital products
-- 📊 **Analytics & market tools** — dashboards and data-driven experiments
-- 📣 **Content automation** — tools for creating and distributing content
-- 🎵 **Music & creative technology** — experimenting with sound, AI and ideas
+Rapsometeddy is the central home for a growing collection of software, automation, analytics, business and creative projects.
 
-## 🛠️ Tech I'm Exploring
+The goal is **not** to put every project into one giant codebase. Each product remains an independent repository, while the ecosystem provides a shared identity, navigation layer and — over time — shared services.
 
 ```
-JavaScript   Python   Next.js   Supabase
-Vercel       GitHub   Telegram API
-REST APIs    SQL      AI tools
+                         RAPSOMETTEDY
+                              │
+                    ┌─────────┴─────────┐
+                    │   ECOSYSTEM HUB   │
+                    │  Identity • Apps  │
+                    └─────────┬─────────┘
+                              │
+        ┌──────────┬──────────┼──────────┬──────────┐
+        ↓          ↓          ↓          ↓          ↓
+     BUSINESS   FINANCE    CONTENT   ANALYTICS   CREATIVE
+        │          │          │          │          │
+   Business OS  ProfitMate  Content   Trader     VoiceStudio
+                             Machine   Sports
+                                       Predictor
+        │
+        └─────────────────────────────────────────┐
+                                                  ↓
+                                           HQ / Automation
+                                           Telegram Bot
 ```
 
-## 🚀 Featured Projects
+## 🚀 Products
 
-| Project | Focus |
-|---|---|
-| 🤖 **Rapsometeddy Content Machine** | Telegram-first content automation |
-| 📈 **Rapsometeddy Trader** | Market analytics, signals & backtesting |
-| ⚽ **Rapsometeddy Sports Predictor** | Statistical football analytics |
-| 🤖 **Rapsometeddy HQ Bot** | Telegram automation hub |
+| Product | Repository | Purpose |
+|---|---|---|
+| 🏢 **Business OS** | [rapsometeddy-business-os](https://github.com/Rapsometeddy/rapsometeddy-business-os) | Business operations and workflow management |
+| 💰 **ProfitMate** | [-profitmate](https://github.com/Rapsometeddy/-profitmate) | Personal/business money and profit tooling |
+| 📱 **Content Machine** | [rapsometeddy-content-machine](https://github.com/Rapsometeddy/rapsometeddy-content-machine) | Telegram-first content automation |
+| 🤖 **HQ Bot** | [Rapsometeddyrapsometeddy-hq-bot](https://github.com/Rapsometeddy/Rapsometeddyrapsometeddy-hq-bot) | Telegram automation gateway |
+| 📈 **Trader** | [Rapsometeddy-Trader-v1](https://github.com/Rapsometeddy/Rapsometeddy-Trader-v1) | Market analytics and backtesting |
+| ⚽ **Sports Predictor** | [rapsometeddy-sports-predictor](https://github.com/Rapsometeddy/rapsometeddy-sports-predictor) | Statistical football analytics |
+| 🎙️ **VoiceStudio** | [VoiceStudio](https://github.com/Rapsometeddy/VoiceStudio) | Voice and music experimentation |
+| 🌐 **Website** | [website](https://github.com/Rapsometeddy/website) | Public web presence |
+| 👤 **Profile** | [Rapsometeddy](https://github.com/Rapsometeddy/Rapsometeddy) | Ecosystem home and documentation |
 
-## 🎯 My Approach
+## 🧩 Ecosystem Principles
 
-**Build small → test → learn → improve → repeat.**
+### 1. Independent products
+Every serious product keeps its own repository, deployment and release cycle.
 
-I'm interested in projects that can become useful products, open-source tools, or real businesses.
+### 2. Shared identity
+Products use the Rapsometeddy ecosystem as their common brand and navigation layer.
 
-## 🌍 From South Africa 🇿🇦
+### 3. Shared infrastructure where it makes sense
+Authentication, user profiles, notifications, analytics and other common services can eventually be shared instead of rebuilt for every app.
 
-Building with limited resources, learning in public, and using technology to create bigger possibilities.
+### 4. Mobile-first
+Projects should remain practical to build, operate and manage from Android where possible.
 
-## 📫 Connect
+### 5. Build → Test → Learn → Improve
+Small working products come before unnecessary complexity.
 
-- GitHub: [@Rapsometeddy](https://github.com/Rapsometeddy)
-- Explore the repositories below 👇
+## 🗺️ Roadmap
+
+- [x] Establish Rapsometeddy as the ecosystem home
+- [x] Create a central product map
+- [ ] Build the Rapsometeddy Hub dashboard
+- [ ] Add unified navigation across products
+- [ ] Introduce Rapsometeddy ID / shared authentication
+- [ ] Add shared user profile
+- [ ] Add ecosystem notifications
+- [ ] Add product health/status dashboard
+- [ ] Connect shared Supabase services where appropriate
+- [ ] Create a public product directory
+- [ ] Add an ecosystem API
+
+## 🔐 Architecture Direction
+
+The ecosystem will use a **hub-and-spoke** architecture:
+
+- **Hub:** identity, navigation, shared services and ecosystem-level settings.
+- **Products:** independent applications focused on one job.
+- **Shared services:** authentication, database services and APIs only where there is a real benefit.
+- **Repositories:** remain separate so one product can evolve without breaking the others.
+
+This keeps Rapsometeddy scalable without turning the entire ecosystem into one fragile monolith.
 
 ---
 
 <div align="center">
 
-### ⚡ Don't just consume technology. Build with it.
+### ⚡ One identity. Many ideas. One ecosystem.
+
+**Rapsometeddy — BUILD • LEARN • CREATE • INVEST**
 
 </div>
