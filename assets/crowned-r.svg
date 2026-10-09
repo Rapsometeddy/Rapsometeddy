@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-labelledby="title desc">
+  <title id="title">Rapsometeddy crowned R</title>
+  <desc id="desc">A bold white letter R framed by a violet shield and topped with a three-point crown.</desc>
+  <defs>
+    <linearGradient id="violet" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#c4b5fd"/>
+      <stop offset=".52" stop-color="#8b5cf6"/>
+      <stop offset="1" stop-color="#6d28d9"/>
+    </linearGradient>
+  </defs>
+  <rect width="256" height="256" rx="54" fill="#09070f"/>
+  <path d="M128 19 146 39 172 28 177 53 207 56 196 81 214 98 195 115 200 148 181 167 176 201 151 219 128 238 105 219 80 201 75 167 56 148 61 115 42 98 60 81 49 56 79 53 84 28 110 39Z" fill="none" stroke="url(#violet)" stroke-width="5" opacity=".9"/>
+  <path d="M76 72 91 39 119 61 137 30 155 61 183 39 198 72 184 85 90 85Z" fill="url(#violet)"/>
+  <path d="M91 95h49c35 0 52 18 52 45 0 20-10 34-29 41l31 48h-38l-27-43h-8v43H91Zm30 28v35h18c14 0 22-6 22-18s-8-17-22-17Z" fill="#f7f4ff"/>
+  <path d="M70 225h116" stroke="url(#violet)" stroke-width="5" stroke-linecap="round"/>
+</svg>
